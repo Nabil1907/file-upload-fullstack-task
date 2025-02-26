@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input[type="file"] {
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+progress {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.task-progress {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
